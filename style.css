@@ -2,6 +2,7 @@
     max-width: 100%;
     height: auto;
 }
+
 .icons {
     font-size: 4rem;
 }
@@ -151,30 +152,33 @@ i {
         gap: 1rem;
     }
 
- .birth{
-    text-align: center;
- }
-.share{
-    text-align: center;
-}
+    .birth {
+        text-align: center;
+    }
 
-.nnav{
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
-.pic-pr{
-    width: 100%;
-}
-.problem{
-    width: 90%;
-    margin: auto;
-    background-color: #CE1212;
-}
+    .share {
+        text-align: center;
+    }
 
-.main-nav{
-    justify-content: center;
-}
+    .nnav {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .pic-pr {
+        width: 100%;
+    }
+
+    .problem {
+        width: 90%;
+        margin: auto;
+        background-color: #CE1212;
+    }
+
+    .main-nav {
+        justify-content: center;
+    }
 
 
 
